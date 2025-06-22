@@ -30,4 +30,7 @@ export default class User {
       this.zip.toLowerCase().includes(f) 
     );
   }
+
+
+  
 }
